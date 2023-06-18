@@ -1,0 +1,8 @@
+!/src/lib/doka/
+
+!/graphql/*.generated.ts
+/graphql/schema/resolvers.generated.ts
+/src/graphql/schema/types.generated.ts
+/src/graphql/schema/typeDefs.generated.ts
+/src/graphql/gql/schema.ts
+/.env.production.local
